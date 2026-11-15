@@ -1,0 +1,5 @@
+{
+  "name": "AZURE Esports",
+  "roles": [{"name": "Founder", "color": "#EFBF04"}, {"name": "Coach", "color": "#FF006E"}, {"name": "Member", "color": "#BDBDBD"}],
+  "categories": [{"name": "MATCHDAY", "channels": [{"name": "announcements", "type": "text"}, {"name": "team-chat", "type": "text"}, {"name": "voice-room", "type": "voice"}]}]
+}

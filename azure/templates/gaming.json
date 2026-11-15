@@ -1,0 +1,5 @@
+{
+  "name": "AZURE Gaming",
+  "roles": [{"name": "Founder", "color": "#EFBF04"}, {"name": "Admin", "color": "#DA5A3B"}, {"name": "Member", "color": "#BDBDBD"}],
+  "categories": [{"name": "GENERAL", "channels": [{"name": "welcome", "type": "text"}, {"name": "lobby", "type": "voice"}]}]
+}

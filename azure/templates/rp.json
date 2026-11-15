@@ -1,0 +1,5 @@
+{
+  "name": "AZURE RP",
+  "roles": [{"name": "Founder", "color": "#F6BD60"}, {"name": "Staff", "color": "#F28482"}, {"name": "VIP", "color": "#84A59D"}, {"name": "Member", "color": "#BDBDBD"}],
+  "categories": [{"name": "INFO", "channels": [{"name": "welcome", "type": "text"}, {"name": "rules", "type": "text"}]}, {"name": "ROLEPLAY", "channels": [{"name": "rp-chat", "type": "text"}, {"name": "voice-lobby", "type": "voice"}]}]
+}

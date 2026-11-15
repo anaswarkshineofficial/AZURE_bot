@@ -1,0 +1,31 @@
+{
+  "name": "AZOR AHAI PvP",
+  "branding": {
+    "primary": "#EF233C",
+    "secondary": "#FFFFFF",
+    "accent": "#E5E7EB",
+    "contrast": "#151515"
+  },
+  "roles": [
+    {"name": "Founder", "color": "#EF233C"},
+    {"name": "Co-Founder", "color": "#D90429"},
+    {"name": "Head Admin", "color": "#C1121F"},
+    {"name": "Admin", "color": "#EF233C"},
+    {"name": "Moderator", "color": "#F25C54"},
+    {"name": "Support Team", "color": "#F08080"},
+    {"name": "VIP", "color": "#E5E7EB"},
+    {"name": "Whitelisted", "color": "#FFFFFF"},
+    {"name": "PvP Veteran", "color": "#BFC5CC"},
+    {"name": "Member", "color": "#AAB2BD"},
+    {"name": "Bots", "color": "#5865F2"}
+  ],
+  "categories": [
+    {"name": "INFORMATION", "channels": [{"name": "welcome", "type": "text", "topic": "Welcome to AZOR AHAI PvP."}, {"name": "announcements", "type": "text"}, {"name": "rules", "type": "text"}, {"name": "server-information", "type": "text"}, {"name": "how-to-connect", "type": "text"}, {"name": "get-roles", "type": "text"}]},
+    {"name": "WHITELISTED", "channels": [{"name": "server-ip", "type": "text"}, {"name": "whitelist-announcements", "type": "text"}, {"name": "player-updates", "type": "text"}, {"name": "whitelisted-lobby", "type": "voice"}]},
+    {"name": "PVP COMMUNITY", "channels": [{"name": "pvp-chat", "type": "text"}, {"name": "kill-feed", "type": "text"}, {"name": "leaderboard", "type": "text"}, {"name": "clips-and-highlights", "type": "text"}, {"name": "screenshots", "type": "text"}, {"name": "find-a-team", "type": "text"}]},
+    {"name": "SUPPORT", "channels": [{"name": "create-ticket", "type": "text"}, {"name": "player-reports", "type": "text"}, {"name": "ban-appeals", "type": "text"}, {"name": "suggestions", "type": "text"}, {"name": "technical-support", "type": "text"}]},
+    {"name": "VIP", "channels": [{"name": "vip-announcements", "type": "text"}, {"name": "vip-chat", "type": "text"}, {"name": "vip-voice", "type": "voice"}]},
+    {"name": "STAFF", "channels": [{"name": "staff-chat", "type": "text"}, {"name": "staff-logs", "type": "text"}, {"name": "moderation-logs", "type": "text"}, {"name": "admin-alerts", "type": "text"}, {"name": "staff-applications", "type": "text"}, {"name": "staff-voice", "type": "voice"}]},
+    {"name": "VOICE", "channels": [{"name": "general-lobby", "type": "voice"}, {"name": "pvp-squad-1", "type": "voice"}, {"name": "pvp-squad-2", "type": "voice"}, {"name": "pvp-squad-3", "type": "voice"}, {"name": "afk", "type": "voice"}]}
+  ]
+}
